@@ -15,11 +15,11 @@ By turning complex data into clear, actionable insights, this dashboard help dec
 
  
  # Dashboard (Power BI Desktop)⭐️
- Project Summary Page:
+ ### Project Summary Page:
  <img width="1298" height="744" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/63e607c1-0a0c-4fce-bafb-313648e55a9e" />
- Project Timeline Page:
+ ### Project Timeline Page:
  <img width="1297" height="743" alt="timeline dashboard" src="https://github.com/user-attachments/assets/58226186-753c-4d9c-a778-070c76e13351" />
- Project Details Page:
+ ### Project Details Page:
  <img width="1298" height="739" alt="Details Dashboard" src="https://github.com/user-attachments/assets/e41baef6-ea0f-44ca-845a-b96c0eadc5e0" />
  
  
