@@ -1,3 +1,4 @@
+
 # Project Management-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYTZhYTk5NzItODU4OC00MjdhLThlODQtMTZkN2Q1ZTcwYjg4IiwidCI6IjJjODZiYmZjLThkMDQtNDFmZi1hODNhLTk0MmYwNzVlMGY2MCIsImMiOjl9&pageName=ae8a28d97e2b734483ec
@@ -21,5 +22,3 @@ By turning complex data into clear, actionable insights, this dashboard help dec
  <img width="1297" height="743" alt="timeline dashboard" src="https://github.com/user-attachments/assets/58226186-753c-4d9c-a778-070c76e13351" />
  ### Project Details Page:
  <img width="1298" height="739" alt="Details Dashboard" src="https://github.com/user-attachments/assets/e41baef6-ea0f-44ca-845a-b96c0eadc5e0" />
- 
- 
